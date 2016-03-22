@@ -1,0 +1,24 @@
+{
+    "name": "ph-7/cookiesession",
+    "description": "Very light library to manage easily and simply the Session and Cookie with PHP 7+",
+    "keywords": ["session","cookie","PHP 7","secure session","secure cookie","secure","cookie session"],
+    "type": "library",
+    "homepage": "http://ph7cms.com",
+    "license": "GPL-3.0+",
+    "authors": [
+        {
+            "name": "Pierre-Henry Soria",
+            "email": "phy@hizup.uk",
+            "homepage": "http://hizup.uk",
+            "role": "Senior Software Developer"
+        }
+    ],
+    "require": {
+        "php": ">=7.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "PH7\\CookieSession\\": "src"
+        }
+    }
+}

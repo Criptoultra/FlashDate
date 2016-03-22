@@ -1,0 +1,6 @@
+db:
+    db_name: db_name
+    db_user: db_user
+    db_pass: x_pence
+    db_host: localhost
+    db_driver: pdo_mysql

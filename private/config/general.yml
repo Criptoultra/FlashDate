@@ -1,0 +1,3 @@
+general:
+    environment: development
+    theme: base

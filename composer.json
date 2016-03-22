@@ -1,0 +1,32 @@
+{
+    "name": "ph7software/flashdate",
+    "description": "Professional Dating Site Builder",
+    "keywords": ["Web business builder","CMS","dating","social","social network","social networking","community","portal","user","member","member area","payment","business"],
+    "type": "project",
+    "homepage": "http://hizup.uk",
+    "license": "GPL-3.0+",
+    "authors": [
+        {
+            "name": "Pierre-Henry Soria",
+            "email": "phy@hizup.uk",
+            "homepage": "http://about.ph7.me",
+            "role": "Senior Software Developer"
+        }
+    ],
+    "require": {
+        "php": ">=7.0.0",
+        "slim/slim": "^3.1",
+        "twig/twig": "^1.24",
+        "slim/twig-view": "^2.0",
+        "guzzlehttp/guzzle": "^6.1",
+        "symfony/yaml": "^3.0",
+        "doctrine/orm": "^2.5",
+        "ph-7/cookiesession": "^1.0"
+    },
+    "config": {
+        "vendor-dir": "private/vendor",
+        "bin-dir": "private/vendor/bin",
+        "cache-dir": "private/vendor/cache",
+        "autoloader-suffix": "PH7"
+    }
+}
