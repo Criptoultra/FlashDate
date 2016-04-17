@@ -4,6 +4,8 @@
 
 Thanks FlashDate, create your own but innovative Tinder clone dating service or another social app you plan to build.
 
+## PROJECT NOT FINISHED! NOT USABLE NOW. CONTRIBUTIONS ARE WELCOME
+
 
 ### To be the Best and the Most Powerful, FlashDate use the following:
 
