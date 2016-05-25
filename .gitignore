@@ -1,4 +1,5 @@
-vendor/
+private/vendor/
+private/cache/
 composer.lock
 composer.phar
 *.log
