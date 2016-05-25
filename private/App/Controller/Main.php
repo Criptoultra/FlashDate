@@ -11,8 +11,8 @@ class Main extends Core
 {
     public function index(ServerRequestInterface $oRequest, ResponseInterface $oResponse, array $args) : ResponseInterface
     {
-	  $name =$oRequest->getAttribute('name');
-	  $oResponse->getBody()->write("Hello Hello, $name");
-	  return $oResponse;
+      $name =$oRequest->getAttribute('name');
+      $oResponse->getBody()->write("Hello Hello, $name");
+      return $oResponse;
     }
 }
